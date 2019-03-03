@@ -1,0 +1,23 @@
+{
+  "name": "slackbottutorial",
+  "version": "1.0.0",
+  "description": "first slackbot",
+  "main": "index.js",
+  "scripts": {
+    "script": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanchithaseshadri/SlackBotTutorial.git"
+  },
+  "author": "sanchitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanchithaseshadri/SlackBotTutorial/issues"
+  },
+  "homepage": "https://github.com/sanchithaseshadri/SlackBotTutorial#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}
